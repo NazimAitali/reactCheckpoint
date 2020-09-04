@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/reactCheckpoint/static/css/main.2547e11c.chunk.css",
-    "main.js": "/reactCheckpoint/static/js/main.ca85181f.chunk.js",
-    "main.js.map": "/reactCheckpoint/static/js/main.ca85181f.chunk.js.map",
+    "main.css": "/reactCheckpoint/static/css/main.2a0cbe87.chunk.css",
+    "main.js": "/reactCheckpoint/static/js/main.07035ec3.chunk.js",
+    "main.js.map": "/reactCheckpoint/static/js/main.07035ec3.chunk.js.map",
     "runtime-main.js": "/reactCheckpoint/static/js/runtime-main.230e6e29.js",
     "runtime-main.js.map": "/reactCheckpoint/static/js/runtime-main.230e6e29.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/reactCheckpoint/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.ab2599e1.chunk.js": "/reactCheckpoint/static/js/2.ab2599e1.chunk.js",
-    "static/js/2.ab2599e1.chunk.js.map": "/reactCheckpoint/static/js/2.ab2599e1.chunk.js.map",
+    "static/js/2.5ccbc30e.chunk.js": "/reactCheckpoint/static/js/2.5ccbc30e.chunk.js",
+    "static/js/2.5ccbc30e.chunk.js.map": "/reactCheckpoint/static/js/2.5ccbc30e.chunk.js.map",
     "index.html": "/reactCheckpoint/index.html",
-    "precache-manifest.2d8ceddd78d3f055c508dae3a581bb9e.js": "/reactCheckpoint/precache-manifest.2d8ceddd78d3f055c508dae3a581bb9e.js",
+    "precache-manifest.d01cbce6ced520aff6bf46d0318700b5.js": "/reactCheckpoint/precache-manifest.d01cbce6ced520aff6bf46d0318700b5.js",
     "service-worker.js": "/reactCheckpoint/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/reactCheckpoint/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.2547e11c.chunk.css.map": "/reactCheckpoint/static/css/main.2547e11c.chunk.css.map",
-    "static/js/2.ab2599e1.chunk.js.LICENSE.txt": "/reactCheckpoint/static/js/2.ab2599e1.chunk.js.LICENSE.txt",
+    "static/css/main.2a0cbe87.chunk.css.map": "/reactCheckpoint/static/css/main.2a0cbe87.chunk.css.map",
+    "static/js/2.5ccbc30e.chunk.js.LICENSE.txt": "/reactCheckpoint/static/js/2.5ccbc30e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/reactCheckpoint/static/media/logo.aae9de60.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.230e6e29.js",
-    "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.ab2599e1.chunk.js",
-    "static/css/main.2547e11c.chunk.css",
-    "static/js/main.ca85181f.chunk.js"
+    "static/js/2.5ccbc30e.chunk.js",
+    "static/css/main.2a0cbe87.chunk.css",
+    "static/js/main.07035ec3.chunk.js"
   ]
 }
